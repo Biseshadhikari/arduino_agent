@@ -1,6 +1,6 @@
 class Agent < Formula
   desc "Arduino upload agent with Arduino CLI"
-  homepage "https://github.com/biseshadhikari/arduino_agent"
+  homepage "https://github.com/biseshadhikari/homebrew-arduino_agent"
   
   # Updated URL to match release repo name and tag
   url "https://github.com/biseshadhikari/homebrew-arduino_agent/releases/download/v1.0.1/agent-1.0.1.tar.gz"
