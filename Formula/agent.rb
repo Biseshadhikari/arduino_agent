@@ -6,7 +6,7 @@ class Agent < Formula
   url "https://github.com/biseshadhikari/homebrew-arduino_agent/releases/download/v1.0.1/agent-1.0.0.tar.gz"
   
   # Replace with the actual SHA256 hash of the renamed tarball agent-1.0.1.tar.gz
-  sha256 "YOUR_REAL_SHA256_HASH"
+  sha256 "cb9c3ef028c06a8fcbf16a24d49d5302969b3118090bd1e971dfdf85b7ba74e3"
   
   license "MIT"
 
